@@ -10,4 +10,6 @@
   python2 gm13.py<br>
   <br>
 <img src="https://github.com/gellmoxer/pic/blob/master/gm13.jpg" width="120px" alt="screenshot">
+<img src="https://github.com/gellmoxer/pic/blob/master/garudaind.png" width="50%" alt="screenshot">
+
 <br>
